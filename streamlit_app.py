@@ -5,8 +5,8 @@ import os
 
 # App title
 st.set_page_config(page_title="Blog Chatbot")
-def configure():
-    load_dotenv()
+#def configure():
+    #load_dotenv()
 # Replicate Credentials
 configure()
 with st.sidebar:
