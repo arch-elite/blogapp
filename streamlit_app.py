@@ -8,7 +8,7 @@ st.set_page_config(page_title="Blog Chatbot")
 #def configure():
     #load_dotenv()
 # Replicate Credentials
-configure()
+#configure()
 with st.sidebar:
     st.title('Blog Chatbot')
     st.write('This chatbot is created to assist you iin any problems met in the blog website.')
