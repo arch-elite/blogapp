@@ -1,7 +1,7 @@
 import streamlit as st
 import replicate
 import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 # App title
 st.set_page_config(page_title="Blog Chatbot")
